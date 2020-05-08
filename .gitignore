@@ -168,6 +168,9 @@ cmake-build-*/
 # IntelliJ
 out/
 
+#Linx file
+.directory
+
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
